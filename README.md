@@ -10,4 +10,4 @@
 
 ## <p align="center">XBOT</p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/X-Newbie/XBOT/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/X-Newbie/XBOT/tree/sql-extended"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" /></a></p>
